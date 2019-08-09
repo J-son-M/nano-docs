@@ -23,7 +23,7 @@ Returns how many RAW is owned and how many have not yet been received by **accou
 ```json 
 {  
   "action": "account_balance",  
-  "account": "nano_3e3j5tkog48pnny9dmfzj1r16pg8t1e76dz5tmac6iq689wyjfpi00000000"  
+  "account": "nano_3if5i433esnus5nfrxnjnpm6bja5grucscsfd6dexx1xm98fm3q1q4bkrurj"  
 }
 ```
 
